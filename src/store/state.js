@@ -1,4 +1,6 @@
 export default {
   homecasual:[],
-  searchgoods:[]
+  searchgoods:[],
+  // 推荐的商品列表
+  recommendshoplist: []
 }
