@@ -60,7 +60,6 @@
                 <img
                   src="http://localhost:3000/api/captcha"
                   alt="captcha"
-                  "
                 >
               </section>
             </section>
